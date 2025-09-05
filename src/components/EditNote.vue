@@ -20,7 +20,7 @@
 
 <script setup>
 import { ref, computed, watch } from 'vue'
-import { useNoteStore } from '../stores/Note_stores'
+import { useNoteStore } from '../stores/note_stores'
 import { useRouter, useRoute } from 'vue-router'
 const route = useRoute() // 取得網址列資訊
 const router = useRouter() // 跳轉頁面指向用

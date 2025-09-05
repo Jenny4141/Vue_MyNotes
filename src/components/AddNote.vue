@@ -22,7 +22,7 @@
 
 <script setup>
 import { ref } from 'vue'
-import { useNoteStore } from '../stores/Note_stores'
+import { useNoteStore } from '../stores/note_stores'
 import { useRouter } from 'vue-router'
 const router = useRouter();
 const noteStores = useNoteStore()
