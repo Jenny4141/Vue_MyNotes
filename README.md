@@ -1,5 +1,17 @@
-# Vue 3 + Vite
+## 筆記清單 (MyNotes)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### [網頁Demo](\)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+### 專案介紹
+這是一個使用 **Vue.js** 製作的簡單筆記清單應用程式，主要用於練習 **狀態管理** 與 **事件處理** 的基礎概念。  
+
+### 功能特色
+- ➕ **新增筆記**：快速建立新的筆記內容  
+- 🗑️ **刪除筆記**：移除不需要的筆記  
+- 📌 **釘選筆記**：將重要的筆記置頂顯示  
+- 📱 **RWD 響應式設計**：支援桌機、平板與手機裝置  
+
+### 使用技術
+- **Vue.js**  
+- **JavaScript (ES6+)**  
+- **CSS / Bootstrap**  
