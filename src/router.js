@@ -11,7 +11,7 @@ const routes = [
 
 const router = createRouter({
   routes,
-  history: createWebHistory(),
+  history: createWebHistory('/Vue_MyNotes/'),
 });
 
 export default router;
